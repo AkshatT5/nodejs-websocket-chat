@@ -1,5 +1,4 @@
 # Node.js WebSocket Chat
-
 This is a simple chat application built with Node.js and WebSockets.
 
 ## Features
