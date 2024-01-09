@@ -9,7 +9,6 @@ This is a simple chat application built with Node.js and WebSockets.
 ## Installation
 
 1. Clone this repository:
-
 ```bash
 git clone https://github.com/AkshatT5/nodejs-websocket-chat.git
 ```
